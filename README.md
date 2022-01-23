@@ -1,3 +1,3 @@
-# py-homework-06
-Py Homework 6
+# Homework 6 - Pandas Exercises
+
 This is a repository with various Pandas exercises
